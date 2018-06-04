@@ -1,0 +1,24 @@
+2048 puzzle is a funny, addictive and a very simple number puzzle game. Just join the numbers and get to the 2048 tile! Be ready for a new challenge! 
+
+HOW TO PLAY: 
+Swipe (Up, Down, Left, Right) to move the tiles. When two tiles with the same number touch, they merge into one and the number is doubled. When 2048 tile is created, the player wins! 8 .. 16 ... 1024 .. 2048.
+
+FEATURES:
+- Super 2048 Plus puzzle game
+- Keep playing for High-score after collected 2048 tile
+- Game is automatically saved
+- One Undo move support
+- Beautiful and simple UI
+- High score
+- Leaderboard
+- Completely native implementation
+- 18 beautiful color themes
+- Undo last movement
+- Game is automatically saved
+- Endless mode (you can keep playing after 2048... 4096...)
+- Sensitivity configuration
+- Native android app with super performance and smooth animation
+- Share score with friends
+- Material design
+- Easy of use
+- Clean interface

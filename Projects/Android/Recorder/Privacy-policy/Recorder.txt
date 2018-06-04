@@ -1,0 +1,23 @@
+﻿Recorder
+
+This is the official Parallax Sound Recorder application, which makes it easy to record and playback audio on your smartphone or tablet. An intuitive recording interface makes it easy to record, pause, edit audio and more.
+This application uses analytics software to collect and aggregate statistics. This data helps us improve this app and our services. None of this data can be used to identify you.​
+
+Features:
+1. Record voice with high quality and low quality if your demand.
+2. Easy user interface.
+3. Supported operations in this Version
+	* Save the recording file.
+	* live audio spectrum analyzer
+	* Recording with high quality.
+	* Format file: mp3, ogg
+	* Play, pause, stop audio file.
+	* Send/Share your recording.
+	* Delete your recording right from the app.
+	* recording in background (even when display is off)
+	* microphone gain calibration tool
+	* save/pause/resume/cancel recording process control
+	* easy to use recordings list
+
+Use it, hope you love this application.
+Copyright Parallax Soft Inc.

@@ -1,0 +1,20 @@
+High Jumper
+Privacy Policy
+Try to jump with your Tortoise from place to place, but don't fall into the water! 
+Pick up meat to get bonus score. Spiderwebs will slow you down, fire will throw you into the air.
+
+
+If you manage to survive for some time it feels like having a High Jumper.
+
+FEATURES:
+- Highscore: You can save your Score on your mobile and upload it to our server to compete with other players.
+- Obstacles 
+- Bonus items which give you extra score if you catch em
+- Cute tortoise graphics and sound
+
+PERMISSIONS:
+We need the following permissions:
+- Network communication: To upload your highscore
+- System Tools: To prevent your mobile going into standby while playing
+
+Copyright Parallax Soft Inc. -2018
